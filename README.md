@@ -1,6 +1,6 @@
 # Sudoku
 
-Simple sudoku program in Ncurses using a backtracing algorithm to solve the puzzle before removing squares.
+Simple sudoku program in Ncurses using a backtracking algorithm to solve the puzzle before removing squares.
 
 Tested on Linux, works with ncurses.
 
